@@ -8,6 +8,6 @@ The dataset (training) for the assignment is CE802_Ass_2019_Data.csv and for tes
 
 Out of around 34 students, this method achieved the second best accuracy (73%) in the testing set, behind the best score with a difference of .2% (top accuracy of 73.2%). 
 
-* The actual ground truth is not available.
+*The actual ground truth is not available.
 
 
